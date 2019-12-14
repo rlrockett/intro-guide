@@ -33,6 +33,8 @@ nav:
         url: /essays/classical-antiquity/roman-historiography
       - title: Roman Historians and Rhetoric
         url: /essays/classical-antiquity/roman-historians-rhetoric
+      - title: Polybius
+        url: /essays/classical-antiquity/polybius
 
 
   - section: Medieval (300-1300)
@@ -55,6 +57,8 @@ nav:
         url: /essays/early-modern/scientific-history
       - title: Machiavelli
         url: /essays/early-modern/machiavelli
+      - title: Historiography of Queens
+        url: /essays/thematic/women-gender/historiography-of-elizabethi
 
 
   - section: Enlightenment (1675-1815)
@@ -77,8 +81,6 @@ nav:
         url: /essays/modernism/anthropology
       - title: Marxism
         url: /essays/thematic/marxism
-      - title: Historiography of Queens
-        url: /essays/thematic/women-gender/historiography-of-queens
       - title: Modern Medicine
         url: /essays/early-modern/modern-medicine
       - title: The Dunning School
@@ -120,11 +122,11 @@ nav:
       - title: WWII
         url: /essays/thematic/WWII
       - title: Witch Historiography
-        url: /essays/thematic/women-gender/witch_historiography
+        url: /essays/thematic/women-gender/the-study-of-witches
 
       - title: Universal Histories
         url: /essays/thematic/universal-histories
-      - title: Bible versus Science
+      - title: Bible
         url: /essays/thematic/bibleVscience
       - title: Mental Disorders
         url: /essays/thematic/mentaldisorders
